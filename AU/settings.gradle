@@ -1,0 +1,3 @@
+rootProject.name = "AU"
+include ':app'
+include ':app:aulibrary'
